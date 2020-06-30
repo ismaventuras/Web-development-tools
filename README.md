@@ -5,7 +5,7 @@ Web development tools
 ## To be classified
 * https://feathericons.com/?query=map - Open source icons
 * https://www.css3maker.com/css-3-rgba.html - CSS web to preview different CSS elements like RGBA ,transitions, box shadow...
-
+* https://freefrontend.com/css-background-patterns/ - Backgrounds made in CSS
 
 ## Backgrounds
 * https://uigradients.com/ - For backgrounds using gradients
