@@ -11,6 +11,7 @@ Web development tools
 * https://uigradients.com/ - For backgrounds using gradients
 
 ## Images
+* https://picsum.photos/ - Get random images of any size, you can also grayscale them and some other features
 * http://lorempixel.com/ - Get random images with a desired size.
 * https://dummyimage.com/ - Similar to lorempixel but with a dummy image containing the size
 * https://squoosh.app/ - Image size compresser
